@@ -1,6 +1,6 @@
 # OSINT Framework - Web Application Vulnerability Scanner
 
-A comprehensive Python-based framework for web application vulnerability scanning, developed as a diploma project by **Manuel Lyubomirov Vasilev (Faculty No. 18621)**.
+A comprehensive Python-based framework for web application vulnerability scanning. Developed in 2021.
 
 ## Overview
 
@@ -279,21 +279,20 @@ Reports are automatically generated after each scan completes.
 
 ## Notes
 
-- The framework uses Bulgarian language prompts for user interaction
 - All scans require proper network connectivity
 - Some scans may take significant time depending on target size
 - Ensure you have proper authorization before scanning any target
 
 ## Author
 
-**Manuel Lyubomirov Vasilev**  
-Faculty No. 18621
+1NF1N172
 
 ## License
 
-This project was developed as a diploma work. Please use responsibly and only on systems you own or have explicit permission to test.
+Please use responsibly and only on systems you own or have explicit permission to test.
 
 ## Disclaimer
 
 This tool is for educational and authorized security testing purposes only. Unauthorized access to computer systems is illegal. The authors are not responsible for any misuse of this software.
+
 
